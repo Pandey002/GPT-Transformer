@@ -21,9 +21,9 @@ How individual components interact to produce coherent text
 
 🧩 Project Structure
 .
-├── bigram.py      # Baseline bigram language model
-├── gpt.py         # GPT-style Transformer implementation
-├── input.txt      # Tiny Shakespeare dataset
+├── bigram.py      
+├── gpt.py        
+├── input.txt    
 └── README.md
 
 📚 Learning Progression
